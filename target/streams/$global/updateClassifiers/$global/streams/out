@@ -1,0 +1,409 @@
+[debug] :: resolving dependencies :: default#scalasparkcourse$sources;0.1
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.11.10 {compile=[default, compile, runtime, default(compile), master], runtime=[default, compile, runtime, default(compile), master], test=[default, compile, runtime, default(compile), master], compile-internal=[default, compile, runtime, default(compile), master], runtime-internal=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master], scala-tool=[default, compile, runtime(*), master(compile), runtime, optional, optional(default), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.10
+[debug] 	found org.scala-lang#scala-library;2.11.10 in sbt-chain
+[debug] 	[2.11.10] org.scala-lang#scala-library;2.11.10
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [test]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [compile-internal]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [optional]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [provided]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile-internal->master]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [runtime-internal]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [optional]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime-internal->master]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [test-internal]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [test]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [compile->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [runtime->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test->master]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [optional]
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [provided]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->default(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [test-internal->master]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [plugin]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for default#scalasparkcourse$sources;0.1 [scala-tool]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 {scala-tool=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
+[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->runtime(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [scala-tool->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.11;1.0.5 {scala-tool=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.5
+[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.5 in sbt-chain
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->runtime(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang.modules#scala-xml_2.11;1.0.5 [scala-tool->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->default]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.11.10 {scala-tool=[default, compile, runtime, optional, optional(default), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.10
+[debug] 	found org.scala-lang#scala-compiler;2.11.10 in sbt-chain
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->optional]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-compiler;2.11.10 [scala-tool->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->default]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->runtime(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->optional]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-library;2.11.10 [scala-tool->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.11.10 {scala-tool=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.10
+[debug] 	found org.scala-lang#scala-reflect;2.11.10 in sbt-chain
+[debug] 	[2.11.10] org.scala-lang#scala-reflect;2.11.10
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->runtime(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->runtime]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->compile]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->org.scala-lang#scala-reflect;2.11.10 [scala-tool->master]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->jline#jline;2.14.3 [scala-tool->compile]
+[debug] sbt-chain: Checking cache for: dependency: jline#jline;2.14.3 {scala-tool=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: jline#jline;2.14.3
+[debug] 	found jline#jline;2.14.3 in sbt-chain
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->jline#jline;2.14.3 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->jline#jline;2.14.3 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#scalasparkcourse$sources;0.1->jline#jline;2.14.3 [scala-tool->master]
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.10!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.10!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.3!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.10!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
+[debug] no default ivy user dir defined: set to /home/zadik/.ivy2
+[debug] no default ivy user dir defined: set to /home/zadik/.ivy2
+[debug] no default ivy user dir defined: set to /home/zadik/.ivy2
+[debug] no default ivy user dir defined: set to /home/zadik/.ivy2
+[debug] no default ivy user dir defined: set to /home/zadik/.ivy2
+[debug] no default ivy user dir defined: set to /home/zadik/.ivy2
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to /home/zadik/.ivy2/cache
+[debug] no default cache defined: set to /home/zadik/.ivy2/cache
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /home/zadik/.ivy2/cache
+[debug] no default cache defined: set to /home/zadik/.ivy2/cache
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /home/zadik/.ivy2/cache
+[debug] no default cache defined: set to /home/zadik/.ivy2/cache
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] settings loaded (55ms)
+[debug] 	default cache: /home/zadik/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] settings loaded (47ms)
+[debug] 	shared [file]
+[debug] 	default cache: /home/zadik/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] 	default [chain] [local, main]
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/home/zadik/.sbt/boot/scala-2.12.3/org.scala-sbt/sbt/1.0.2/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (61ms)
+[debug] settings loaded (73ms)
+[debug] settings loaded (70ms)
+[debug] 	default cache: /home/zadik/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	default cache: /home/zadik/.ivy2/cache
+[debug] 	default cache: /home/zadik/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	local [file]
+[debug] settings loaded (74ms)
+[debug] 	default cache: /home/zadik/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] :: resolution report :: resolve 311ms :: artifacts dl 175ms
+[debug] 	report for default#scalasparkcourse$sources;0.1 compile produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-compile.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 runtime produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-runtime.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 test produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-test.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 provided produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-provided.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 optional produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-optional.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 compile-internal produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-compile-internal.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 runtime-internal produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-runtime-internal.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 test-internal produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-test-internal.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 plugin produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-plugin.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 pom produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-pom.xml
+[debug] 	report for default#scalasparkcourse$sources;0.1 scala-tool produced in /home/zadik/ScalaSparkCourse/target/scala-2.11/resolution-cache/reports/default-scalasparkcourse$sources-scala-tool.xml
+[debug] 	resolve done (311ms resolve - 175ms download)
